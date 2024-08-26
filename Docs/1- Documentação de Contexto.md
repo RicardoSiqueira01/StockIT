@@ -27,7 +27,7 @@ Desenvolver um aplicativo movél para gerenciar o estoque doméstico.
 
 ### Objetivos Específicos
 - Implementar uma interface que possibilita a rápida visualização dos produtos onde o usuário pode: adicionar, editar e remover produtos;
-- Permitir o usuário agrupar seu produtos em categorias;
+- Permitir o usuário agrupar seus produtos em categorias;
 - Elaborar uma funcionalidade de lista de compras;
 - Possiblitar o acompanhamento do preço das compras.
 

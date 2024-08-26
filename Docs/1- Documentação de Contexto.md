@@ -17,6 +17,8 @@ O suporte que o StockEase pode prover para pessoas que possuem dificuldades em g
 
 "O que pode ser feito para ajudar o gerenciamento do estoque doméstico?"
 
+O aplicativo móvel será usado em ambientes domésticos.
+
 ## Objetivos
 ### Objetivo Geral
 

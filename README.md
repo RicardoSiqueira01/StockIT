@@ -1,2 +1,5 @@
 # StockEase
-Este repositório contém o projeto pessoal StockEase. Um app para controle de estoque em casa.
+StockEase é um app de controle de estoque.
+
+
+

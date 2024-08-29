@@ -6,8 +6,11 @@ A justificativa para o desenvolvimento deste aplicativo móvel, chamado StockIT,
 A motivações do desenvolvimento deste app estão no aprendizado ganho com sua produção: 
 
 - Fotalecendo meus conhecimentos nas tecnologias mobile e aprendendo novos paradigmas. 
+
 - Exercitar a criação de projetos e organizar as tarefas para cumprir com seus objetivos.
+
 - Melhorar no planejamento das telas para uma melhor experiência de usuário.
+
 - Ganhar experiência para uma futura entrada no mercado de trabalho. 
 
 E nos problemas que busca solucionar:
@@ -26,8 +29,25 @@ O aplicativo móvel será usado em ambientes domésticos.
 Desenvolver um aplicativo movél para gerenciar o estoque doméstico.
 
 ### Objetivos Específicos
+
 - Implementar uma interface que possibilita a rápida visualização dos produtos onde o usuário pode: adicionar, editar e remover produtos;
+
 - Permitir o usuário agrupar seus produtos em categorias;
+
 - Elaborar uma funcionalidade de lista de compras;
+
 - Possiblitar o acompanhamento do preço das compras.
 
+# Público Alvo
+
+O público alvo que este projeto busca alcançar são:
+
+- Famílias: Pessoas que gerenciam compras e mantimentos para uma casa, especialmente em famílias grandes ou com crianças. Essas pessoas precisam de um sistema eficiente para saber o que têm em estoque e o que precisam comprar.
+
+- Profissionais Ocupados: Indivíduos que têm pouco tempo para gerenciar suas compras e precisam de um aplicativo que os ajude a planejar suas listas de compras e gerenciar o que têm em casa.
+
+- Pessoas que Moram Sozinhas: Solteiros ou estudantes que desejam otimizar suas compras e evitar desperdícios, garantindo que sempre tenham o essencial em casa.
+
+- Organizadores Domésticos: Pessoas interessadas em organização, que desejam manter a casa bem gerida e estocada de forma eficiente, especialmente aqueles que seguem práticas de gestão minimalista ou de armazenamento de alimentos.
+
+- Idosos e Pessoas com Mobilidade Reduzida: Que precisam planejar suas compras de forma eficaz, garantindo que tenham suprimentos necessários em casa e evitando visitas frequentes a lojas.
